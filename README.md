@@ -48,4 +48,4 @@ CUDA_VISIBLE_DEVICES = 0 python test_model.py --dataset [refcoco/refcoco+/refcoc
 ```
 
 ## Acknowledgement
-Thanks for a lot of codes from [onestage_grounding](https://github.com/zyang-ur/onestage_grounding) , [VLT](https://github.com/henghuiding/Vision-Language-Transformer), [CLIP](https://github.com/openai/CLIP), [K-Net](https://github.com/ZwwWayne/K-Net) , [DETR](https://github.com/facebookresearch/detr) and the framework of CLIP using for backbone pretraining.
+Thanks for a lot of codes from [onestage_grounding](https://github.com/zyang-ur/onestage_grounding) , [VLT](https://github.com/henghuiding/Vision-Language-Transformer), [CLIP](https://github.com/openai/CLIP), [K-Net](https://github.com/ZwwWayne/K-Net) , [DETR](https://github.com/facebookresearch/detr).
