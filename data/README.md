@@ -1,5 +1,4 @@
-shell
-```
+```shell
 data
     └──refcoco/
         ├── refcoco_testA.txt
