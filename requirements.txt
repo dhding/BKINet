@@ -1,0 +1,10 @@
+scikit-image
+pycocotools
+numpy
+scipy
+matplotlib
+opencv-python
+tqdm
+pytorch_pretrained_bert
+tensorboardX
+clip
